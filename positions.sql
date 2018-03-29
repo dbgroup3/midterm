@@ -1,4 +1,4 @@
--- elayne hw4
+-- gp3 midterm
 
 drop table positions;
 
