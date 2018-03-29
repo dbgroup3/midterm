@@ -13,6 +13,7 @@ create table roster (
 	class varchar(2),
 	city varchar(25),
 	state_abv varchar(2),
+	primary key (jersey, last_name),
 	foreign key (state_abv) references statesinfo(state_abv),
 	foreign key (position) references positions(position_name)
 );
