@@ -1,4 +1,4 @@
-load data infile 'regions.csv'
-insert into table regions
+load data infile 'roster.csv'
+insert into table roster
 fields terminated by "," optionally enclosed by '"'
-(region_code,region_name)
+(jersey,last_name,first_name,position,ht_f,ht_i,weight,class,city,state_abv)

@@ -10,7 +10,7 @@ create table roster (
 	ht_f int,
 	ht_i int,
 	weight int,
-	year varchar(2),
+	class varchar(2),
 	city varchar(25),
 	state_abv varchar(2)
 );
