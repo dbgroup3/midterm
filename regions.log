@@ -1,0 +1,28 @@
+
+SQL*Loader: Release 11.2.0.2.0 - Production on Thu Mar 29 17:29:26 2018
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   regions.ctl
+Data File:      regions.csv
+  Bad File:     regions.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table REGIONS, loaded from every logical record.
+Insert option in effect for this table: INSERT
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+REGION_CODE                         FIRST     *   ,  O(") CHARACTER            
+REGION_NAME                          NEXT     *   ,  O(") CHARACTER            
+
+SQL*Loader-601: For INSERT option, table must be empty.  Error on table REGIONS
