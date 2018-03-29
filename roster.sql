@@ -12,7 +12,9 @@ create table roster (
 	weight int,
 	class varchar(2),
 	city varchar(25),
-	state_abv varchar(2)
+	state_abv varchar(2),
+	foreign key (state_abv) references statesinfo(state_abv),
+	foreign key (position) references positions(position_name)
 );
 
 exit;
