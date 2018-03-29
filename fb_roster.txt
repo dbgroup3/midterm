@@ -1,0 +1,91 @@
+35	Adams, David	Linebacker	6-1	222	SO	Pittsburgh, PA/Central Catholic
+26	Agoro, Temitope	Cornerback	6-0	201	JR	Riverdale, MD/Parkdale
+8	Armstrong, Jafar	Wide Receiver/Running Back	6-1	213	SO	Lee's Summit, MO/Bishop Miege
+32	Assaf, Mick	Running Back	5-11	207	JR	Atlanta, GA/Pace Academy
+36	Ball, Brian	Cornerback	5-10	194	SR	Indianapolis, IN/Bishop Chatard
+69	Banks, Aaron	Offensive Line	6-6	320	SO	Alameda, CA/El Cerrito
+71	Bars, Alex	Offensive Line	6-6	318	GS	Nashville, TN/Montgomery Bell Academy
+52	Bauer, Bo	Linebacker	6-3	216	FR	Harborcreek, PA/Cathedral Prep
+22	Bilal, Asmar	Linebacker	6-2	225	SR	Indianapolis, IN/Ben Davis
+55	Bonner, Jonathan	Defensive Line	6-4	293	GS	Chesterfield, MO/Parkway Central
+12	Book, Ian	Quarterback	6-0	200	JR	El Dorado Hills, CA/Oak Ridge
+81	Boykin, Miles	Wide Receiver	6-4	227	SR	Tinley Park, IL/Providence Catholic
+46	Bushland, Matt	Long Snapper	6-2	210	JR	Dallas, TX/John Paul II
+11	Canteen, Freddy	Wide Receiver	6-0	192	GS	Elkton, MD/Eastern Christian
+14	Carney, J.D.	Quarterback	5-10	177	SO	San Diego, CA/Cathedral Catholic
+83	Claypool, Chase	Wide Receiver	6-5	229	JR	Abbotsford, BC/Abbotsford
+24	Coleman, Nick	Safety	6-0	191	SR	Dayton, OH/Archbishop Alter
+4	Coney, Te'von	Linebacker	6-1	238	SR	Palm Beach Gardens, FL/Palm Beach Gardens
+20	Crawford, Shaun	Cornerback	5-9	178	SR	Lakewood, OH/St. Edward
+3	Davis, Avery	Quarterback	5-11	203	SO	Cedar Hill, TX/Cedar Hill
+97	Dew-Treadway, Micah	Defensive Line	6-4	309	SR	Bolingbrook, IL/Bolingbrook
+39	Doerer, Jonathan	Kicker/Punter	6-3	200	SO	Charlotte, NC/South Mecklenburg
+74	Eichenberg, Liam	Offensive Line	6-6	303	JR	Cleveland, OH/Saint Ignatius
+18	Ekanayake, Cameron	Running Back	6-0	194	SO	Niles, MI/Edwardsburg
+21	Elliott, Jalen	Safety	6-1	203	JR	Richmond, VA/Lloyd C. Bird
+94	Ewell, Darnell	Defensive Line	6-3	324	SO	Norfolk, VA/Lake Taylor
+54	Feist, Lincoln	Defensive Line	6-3	329	SR	Rapid City, SD/St. Thomas More
+28	Fertitta, Nicco	Safety	5-9	171	SR	Las Vegas, NV/Bishop Gorman
+10	Finke, Chris	Wide Receiver	5-10	179	SR	Dayton, OH/Archbishop Alter
+39	Garcia, Brandon	Cornerback/Wide Receiver	5-8	195	SO	Casa Grande, AZ/Seton Catholic Prep
+2	Genmark Heath, Jordan	Safety	6-1	211	SO	San Diego, CA/Cathedral Catholic
+76	Gibbons, Dillan	Offensive Line	6-4	307	SO	Clearwater, FL/Clearwater Central Catholic
+11	Gilman, Alohi	Safety	5-11	200	JR	Laie, HI/Kahuku
+3	Griffith, Houston	Defensive Back	6-0	196	FR	Chicago, IL/IMG Academy (IMG)
+61	Grunhard, Colin	Offensive Line	6-1	274	SO	Mission, KS/Bishop Miege
+72	Hainsey, Robert	Offensive Line	6-5	291	SO	Pittsburgh, PA/IMG Academy (FL)
+9	Hayes, Daelin	Defensive Line	6-4	264	JR	Belleville, MI/Skyline
+93	Hayes, Jay	Defensive Line	6-4	289	GS	Brooklyn, NY/Poly Prep Country Day
+49	Henige, Jack	Tight End	6-5	233	SO	Hinsdale, IL/Fenwick
+17	Henry, Nolan	Quarterback	6-0	195	SR	Vancouver, WA/Union
+41	Hinish, Kurt	Defensive Line	6-2	292	SO	Pittsburgh, PA/Central Catholic
+49	Hutson, Brandon	Defensive Line	6-3	243	SR	Battle Creek, MI/Harper Creek Community
+44	Jones, Jamir	Defensive Line	6-3	242	JR	Rochester, NY/Aquinas Institute
+45	Jones, Jonathan	Linebacker	6-0	222	JR	Ocoee, FL/Oak Ridge
+6	Jones Jr., Tony	Running Back	5-11	220	JR	St. Petersburg, FL/IMG Academy
+80	Jones, Micah	Wide Receiver	6-5	208	FR	Gurnee, IL/Warren
+53	Kareem, Khalid	Defensive Line	6-4	270	JR	Detroit, MI/Harrison
+84	Kmet, Cole	Tight End	6-6	255	SO	Lake Barrington, IL/St. Viator
+78	Kraemer, Tommy	Offensive Line	6-6	315	JR	Cincinnati, OH/Elder
+31	Lamb, Jack	Linebacker	6-4	216	FR	Temecula, CA/Great Oak
+48	Lezynski, Xavier	Tight End	6-1	200	SO	Newtown, PA/Notre Dame (NJ)
+27	Love, Julian	Cornerback	5-11	189	JR	Westchester, IL/Nazareth
+75	Lugg, Josh	Offensive Line	6-7	308	SO	Wexford, PA/North Allegheny Senior
+86	Mack, Alizé	Tight End	6-5	244	SR	Las Vegas, NV/Bishop Gorman
+25	Mahoney, John	Defensive Back	6-0	200	SO	West Des Moines, IA/Valley
+88	McKinley, Javon	Wide Receiver	6-2	215	JR	Corona, CA/Centennial
+15	Morgan, D.J.	Linebacker	6-2	220	JR	Norwalk, CA/Saint John Bosco
+53	Mustipher, Sam	Offensive Line	6-3	304	GS	Owings Mills, MD/Good Counsel
+85	Newsome, Tyler	Punter	6-3	210	GS	Carrollton, GA/Carrollton
+29	Oghoufo, Ovie	Linebacker	6-3	217	FR	Lathrup Village, MI/Harrison
+91	Ogundeji, Adetokunbo	Defensive Line	6-4	251	JR	West Bloomfield, MI/Walled Lake Central
+42	Okwara, Julian	Defensive Line	6-5	230	JR	Charlotte, NC/Ardrey-Kell
+30	Owusu-Koramoah, Jeremiah	Linebacker	6-2	210	SO	Hampton, VA/Bethel
+9	Pelini, Patrick	Wide Receiver	6-1	184	SO	Youngstown, OH/Cardinal Mooney
+62	Plantz, Logan	Offensive Line	6-2	280	SR	Frankfort, IL/Providence Catholic
+5	Pride Jr., Troy	Cornerback	6-0	185	JR	Greer, SC/Greer Senior
+37	Regan, Robert	Linebacker	6-2	212	SR	Darien, IL/Hinsdale South
+42	Riney, Jeff	Punter	5-11	189	SR	Katy, TX/Seven Lakes
+17	Robertson, Isaiah	Linebacker	6-2	207	SO	Bolingbrook, IL/Neuqua Valley
+57	Ruhland, Trevor	Offensive Line	6-4	295	SR	Cary, IL/Cary-Grove Community
+38	Schilling, Christopher	Safety	5-11	210	JR	Overland Park, KS/St. Thomas Aquinas
+54	Shannon, John	Long Snapper	6-2	232	JR	Lake Forest, IL/Loyola Academy
+27	Shinaver, Arion	Wide Receiver	6-1	181	JR	Carmel, IN/Guerin Catholic
+34	Smith, Jahmir	Running Back	5-11	200	FR	Sanford, NC/Lee County
+51	Spruell, Devyn	Linebacker	6-2	233	SR	Warren, NJ/Watchung Hills
+14	Studstill, Devin	Safety	6-0	198	JR	Riviera Beach, FL/Palm Beach Gardens
+95	Tagovailoa-Amosa, Myron	Defensive Line	6-3	285	SO	Ewa Beach, HI/Kapole
+85	Takacs, George	Tight End	6-6	245	FR	Naples, FL/Gulf Coast
+46	Thompson, Jimmy	Linebacker	6-0	214	SR	Hinsdale, IL/Central
+99	Tillery, Jerry	Defensive Line	6-7	299	SR	Shreveport, LA/Evangel Christian Academy
+23	Tranquill, Drue	Linebacker	6-2	233	GS	Fort Wayne, IN/Carroll
+8	Vaughn, Donte	Cornerback	6-3	205	JR	Memphis, TN/Whitehaven
+47	Wardlow, Kofi	Defensive Line	6-2	240	SO	Washington, DC/St. John's College
+7	Watkins, Nick	Cornerback	6-1	205	GS	DeSoto, TX/Bishop Dunne
+82	Weishar, Nic	Tight End	6-5	245	GS	Midlothian, IL/Marist
+40	White, Drew	Linebacker	6-0	225	SO	Boca Raton, FL/St. Thomas Aquinas
+2	Williams, Dexter	Running Back	5-11	203	SR	Orlando, FL/West Orange
+7	Wimbush, Brandon	Quarterback	6-2	225	SR	Teaneck, NJ/St. Peter's Prep
+89	Wright, Brock	Tight End	6-5	250	SO	Cypress, TX/Cy-Fair
+19	Yoon, Justin	Kicker	5-10	194	SR	Nashville, TN/Milton Academy (MA)
+87	Young, Michael	Wide Receiver	5-10	192	SO	Saint Rose, LA/Destrehan
