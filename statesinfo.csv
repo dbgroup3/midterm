@@ -2,9 +2,11 @@ AK,5,Alaska
 AL,3,Alabama
 AR,3,Arkansas
 AZ,4,Arizona
+BC,5,British Columbia
 CA,5,California
 CO,5,Colorado
 CT,1,Connecticut
+DC,1,Washington DC
 DE,1,Delaware
 FL,3,Florida
 GA,3,Georgia
@@ -48,5 +50,3 @@ WA,5,Washington
 WI,2,Wisconsin
 WV,3,West Virginia
 WY,5,Wyoming
-DC,1,Washington DC
-BC,5,British Columbia

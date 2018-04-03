@@ -1,6 +1,6 @@
 -- gp3 midterm
 
-drop table positions;
+drop table positions cascade constraints;
 
 create table positions (
 	position_name varchar2(25),

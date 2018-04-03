@@ -1,6 +1,6 @@
 -- gp3 midterm
 
-drop table regions;
+drop table regions cascade constraints;
 
 create table regions (
 	region_code int,

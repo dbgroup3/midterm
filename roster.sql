@@ -1,6 +1,6 @@
 -- gp3 midterm
 
-drop table roster;
+drop table roster cascade constraints;
 
 create table roster (
 	jersey int,
@@ -14,12 +14,8 @@ create table roster (
 	city varchar2(25),
 	state_abv varchar2(2),
 	primary key (jersey, last_name),
-	foreign key (state_abv) references statesinfo(state_abv)
-		on delete set null
-		on update cascade,
+	foreign key (state_abv) references statesinfo(state_abv),
 	foreign key (position) references positions(position_name)
-		on delete set null
-		on update cascade
 );
 
 exit;
