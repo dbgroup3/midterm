@@ -10,12 +10,16 @@ create table roster (
 	ht_f int,
 	ht_i int,
 	weight int,
-	class varchar(2),
-	city varchar(25),
-	state_abv varchar(2),
+	class varchar2(2),
+	city varchar2(25),
+	state_abv varchar2(2),
 	primary key (jersey, last_name),
-	foreign key (state_abv) references statesinfo(state_abv),
+	foreign key (state_abv) references statesinfo(state_abv)
+		on delete set null
+		on update cascade,
 	foreign key (position) references positions(position_name)
+		on delete set null
+		on update cascade
 );
 
 exit;

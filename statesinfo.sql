@@ -8,6 +8,8 @@ create table statesinfo (
 	state_name varchar(15),
 	primary key (state_abv),
 	foreign key (region_code) references regions(region_code)
+		on delete set null
+		on update cascade
 );
 
 exit;
